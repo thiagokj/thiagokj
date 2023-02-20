@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 # 🪄 Dev Tools:
 
 - VS Code
-- Visual Studio (Zoom 90%)
+- Visual Studio
 - Azure Data Studio
 - SQL Server Management Studio
 - Notepad ++
@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 # 🎨Themes:
 
 - [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
-- [Hack Font | font-size: 11~14px](https://github.com/source-foundry/Hack)
+- [Hack Font](https://github.com/source-foundry/Hack "font-size: 12~14px. ide-zoom: 90%")
