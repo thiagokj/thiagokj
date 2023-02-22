@@ -10,9 +10,9 @@
 
 
 # 💻 Tech Stack:
-![C#] ![CSS3] ![HTML5] ![Java] ![JavaScript] ![PHP] ![TypeScript] ![Azure] ![Cloudflare] ![.Net] ![Bootstrap] ![Chart.js] ![Express.js]
-![jQuery] ![NodeJS] ![React] ![Apache] ![Nginx] ![MariaDB] ![MicrosoftSQLServer] ![MongoDB] ![MySQL] ![Postgres] ![SQLite] ![Supabase] 
-![Canva] ![Figma] ![Docker] ![Notion] ![Postman] ![Markdown]
+![HTML5] ![CSS3] ![JavaScript] ![TypeScript] ![Bootstrap] ![React] ![Chart.js] ![jQuery] ![Express.js] ![NodeJS]
+![C#] ![.Net] ![Java] ![PHP] ![Apache] ![Nginx] ![MicrosoftSQLServer] ![SQLite] ![MariaDB] ![MySQL] ![Postgres] ![Oracle] ![MongoDB]
+![Supabase] ![Docker] ![Azure] ![Cloudflare] ![Postman] ![ShellScript] ![Git] ![Markdown] ![Notion] ![Canva] ![Figma] 
 
 
 # 🪄 Dev Tools:
@@ -63,4 +63,6 @@
 [Notion]: https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [Markdown]: https://img.shields.io/badge/markdown-169ADF?style=for-the-badge&logo=markdown&logoColor=white
-
+[ShellScript]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+[Git]: https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
+[Oracle]: https://img.shields.io/badge/Oracle-E34F26?style=for-the-badge&logo=oracle&logoColor=white
