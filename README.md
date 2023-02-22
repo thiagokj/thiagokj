@@ -4,15 +4,15 @@
 - 🛹 Sou um eterno aprendiz e compartilho aquilo que aprendo. Essa é o meu jeito de ser. 😉
 - ✌️ Posso ajudar em algo? É só chamar.
 
+
 # 📫 Contato:
-![LinkedIn]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/thiagocajaiba) [![Gmail](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.cajaiba@gmail.com)
 
 
 # 💻 Tech Stack:
 ![C#] ![CSS3] ![HTML5] ![Java] ![JavaScript] ![PHP] ![TypeScript] ![Azure] ![Cloudflare] ![.Net] ![Bootstrap] ![Chart.js] ![Express.js]
 ![jQuery] ![NodeJS] ![React] ![Apache] ![Nginx] ![MariaDB] ![MicrosoftSQLServer] ![MongoDB] ![MySQL] ![Postgres] ![SQLite] ![Supabase] 
 ![Canva] ![Figma] ![Docker] ![Notion] ![Postman] ![Markdown]
-
 
 
 # 🪄 Dev Tools:
@@ -32,7 +32,6 @@
 - [Hack Font](https://github.com/source-foundry/Hack "font-size: 12~14px. ide-zoom: 90%")
 
 <!--- Badge Links --->
-[LinkedIn]: https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/thiagocajaiba
 [C#]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
 [CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
