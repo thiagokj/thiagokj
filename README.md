@@ -1,7 +1,7 @@
 - 😎 Oi, Meu nome é Thiago Cajaíba.
 - 🤖 Há mais de 15 anos resolvendo problemas com Tecnologia.
 - 🌱 No momento estou aprimorando meus conhecimentos com a plataforma [balta.io](https://balta.io/).
-- 🛹 Sou um eterno aprendiz e compartilho aquilo que aprendo. Essa é o meu jeito de ser. 😉
+- 🛹 Sou um eterno aprendiz e compartilho aquilo que aprendo. Esse é o meu jeito de ser. 😉
 - ✌️ Posso ajudar em algo? É só chamar.
 
 
