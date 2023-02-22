@@ -6,7 +6,7 @@
 
 
 # 📫 Contato:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/thiagocajaiba) [![Gmail](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.cajaiba@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/thiagocajaiba) [![Gmail](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.cajaiba@gmail.com)
 
 
 # 💻 Tech Stack:
@@ -65,4 +65,4 @@
 [Markdown]: https://img.shields.io/badge/markdown-169ADF?style=for-the-badge&logo=markdown&logoColor=white
 [ShellScript]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 [Git]: https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
-[Oracle]: https://img.shields.io/badge/Oracle-E34F26?style=for-the-badge&logo=oracle&logoColor=white
+[Oracle]: https://img.shields.io/badge/Oracle-E55744?style=for-the-badge&logo=oracle&logoColor=white
