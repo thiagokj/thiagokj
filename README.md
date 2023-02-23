@@ -30,6 +30,7 @@
 
 - [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
 - [Hack Font](https://github.com/source-foundry/Hack "font-size: 12~14px. ide-zoom: 90%")
+- [Hack FC Ligatured](https://github.com/gaplo917/Ligatured-Hack/)
 
 <!--- Badge Links --->
 [C#]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
