@@ -1,8 +1,19 @@
-- 😎 Oi, Meu nome é Thiago Cajaíba.
-- 🤖 Desde 2007 resolvendo problemas com Tecnologia.
-- 🌱 Aprimorando meus conhecimentos com o [balta.io](https://balta.io/).
-- 🛹 Sou um eterno aprendiz e compartilho aquilo que aprendo. Esse é o meu jeito de ser. 😉
-- ✌️ Posso ajudar em algo? É só chamar.
+Olá, bem vindo ao meu perfil. Meu nome é Thiago e atuo com Tecnologia desde 2007. 🤖
+
+Atualmente trabalho com a Stack .NET:
+ - Blazor
+ - Minimal APIs
+ - AspNet
+ - Windows Forms Csharp | VBNET
+ - Migração e sustentação de legados
+
+Acredito que o equilíbrio é a chave para todas as soluções. O básico funciona bem e tudo começa com um bom planejamento e arquitetura.
+
+Procuro aplicar nos meus códigos uma modelagem limpa, utilizando boas práticas com o nome expressivo para Classes, Propriedades e Métodos.
+
+Me atualizando sempre com o [balta.io](https://balta.io/). 🌱
+Sou um eterno aprendiz e compartilho aquilo que aprendo. 🛹 
+Posso ajudar em algo? É só chamar.✌️
 
 
 # 📫 Contato:
