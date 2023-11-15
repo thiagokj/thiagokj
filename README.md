@@ -21,9 +21,9 @@ Posso ajudar em algo? É só chamar.✌️
 
 
 # 💻 Tech Stack:
-![HTML5] ![CSS3] ![JavaScript] ![Bootstrap] ![Chart.js] ![jQuery] ![Express.js] ![NodeJS]
 ![.Net] ![Blazor] ![C#] ![VBNET] ![MicrosoftSQLServer] ![SQLite] ![MySQL] ![Postgres] ![Oracle] 
-![MongoDB] ![Supabase] ![Docker] ![Azure] ![Cloudflare] ![Postman] ![ShellScript] ![Git] ![Markdown] 
+![HTML5] ![CSS3] ![JavaScript] ![Bootstrap] ![MongoDB] ![Supabase] ![Docker] ![Azure]
+![Cloudflare] ![Postman] ![ShellScript] ![Git] ![Markdown] 
 
 
 # 🪄 Dev Tools:
