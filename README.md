@@ -12,7 +12,9 @@ Acredito que o equilíbrio é a chave para todas as soluções. O básico funcio
 Procuro aplicar nos meus códigos uma modelagem limpa, utilizando boas práticas com o nome expressivo para Classes, Propriedades e Métodos.
 
 Me atualizo sempre com o conteúdo do [balta.io](https://balta.io/). 🌱
+
 Sou um eterno aprendiz e compartilho aquilo que aprendo. 🛹 
+
 Posso ajudar em algo? É só chamar.✌️
 
 
