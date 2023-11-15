@@ -11,7 +11,7 @@ Acredito que o equilíbrio é a chave para todas as soluções. O básico funcio
 
 Procuro aplicar nos meus códigos uma modelagem limpa, utilizando boas práticas com o nome expressivo para Classes, Propriedades e Métodos.
 
-Me atualizando sempre com o [balta.io](https://balta.io/). 🌱
+Me atualizo sempre com o conteúdo do [balta.io](https://balta.io/). 🌱
 Sou um eterno aprendiz e compartilho aquilo que aprendo. 🛹 
 Posso ajudar em algo? É só chamar.✌️
 
@@ -21,9 +21,10 @@ Posso ajudar em algo? É só chamar.✌️
 
 
 # 💻 Tech Stack:
-![.Net] ![Blazor] ![C#] ![VBNET] ![MicrosoftSQLServer] ![SQLite] ![MySQL] ![Postgres] ![Oracle] 
-![HTML5] ![CSS3] ![JavaScript] ![Bootstrap] ![MongoDB] ![Supabase] ![Docker] ![Azure]
-![Cloudflare] ![Postman] ![ShellScript] ![Git] ![Markdown] 
+![.Net] ![Blazor] ![C#] ![MicrosoftSQLServer] ![Azure]
+![SQLite] ![MySQL] ![Postgres] ![Oracle] ![Docker] 
+![HTML5] ![CSS3] ![JavaScript] ![Bootstrap] ![Markdown] 
+![Cloudflare] ![Postman] ![ShellScript] ![Git] 
 
 
 # 🪄 Dev Tools:
