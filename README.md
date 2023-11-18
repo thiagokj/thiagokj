@@ -24,9 +24,9 @@ Posso ajudar em algo? É só chamar.✌️
 
 
 # 💻 Tech Stack:
-![.NET] ![C#] ![Blazor] ![Minimal APIs] ![Azure]
-![Entity Framework] ![Dapper] ![SQL Server] ![SQLite]
-![CleanCode] ![SOLID] ![DI] ![Rich Domains]
+![.NET] ![C#] ![Blazor] ![Minimal APIs] 
+![Entity Framework] ![Dapper] ![SQL Server] ![SQLite] ![Azure]
+![CleanCode] ![KISS] ![SOLID] ![DI] ![Rich Domains]
 ![HTML5] ![CSS3] ![JavaScript] ![Bootstrap]
 ![MySQL] ![Postgres] ![Oracle] ![Docker]
 ![Cloudflare] ![Postman] ![ShellScript] ![Git] ![Markdown] 
@@ -56,27 +56,28 @@ Posso ajudar em algo? É só chamar.✌️
 [Minimal APIs]: https://img.shields.io/badge/minimal%20apis-%233A75B0.svg?style=for-the-badge&logo=minimal%20apis&logoColor=white
 [Entity Framework]: https://img.shields.io/badge/entity%20framework-%23777BB4.svg?style=for-the-badge&logo=entity%20framework&logoColor=white
 [Dapper]: https://img.shields.io/badge/dapper-%23404d59.svg?style=for-the-badge&logo=dapper&logoColor=white
+[SQL Server]: https://img.shields.io/badge/%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+[SQLite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
+[Azure]: https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white
+
+[CleanCode]: https://img.shields.io/badge/cleancode-%2320232a.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB
+[KISS]: https://img.shields.io/badge/kiss-6DA55F?style=for-the-badge&logo=kiss&logoColor=white
+[SOLID]: https://img.shields.io/badge/solid-%230769AD.svg?style=for-the-badge&logo=solid&logoColor=white
+[DI]: https://img.shields.io/badge/di-%23007ACC.svg?style=for-the-badge&logo=di&logoColor=white
+[Rich Domains]: https://img.shields.io/badge/rich%20domains-%23009639.svg?style=for-the-badge&logo=rich%20domains&logoColor=white
 
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E 
-
-[DI]: https://img.shields.io/badge/di-%23007ACC.svg?style=for-the-badge&logo=di&logoColor=white
-[Azure]: https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white
-[Cloudflare]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
 [Bootstrap]: https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white
+
+[Cloudflare]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
 [Chart.js]: https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
-[SOLID]: https://img.shields.io/badge/solid-%230769AD.svg?style=for-the-badge&logo=solid&logoColor=white
-[NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-[CleanCode]: https://img.shields.io/badge/cleancode-%2320232a.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB
-[Rich Domains]: https://img.shields.io/badge/rich%20domains-%23009639.svg?style=for-the-badge&logo=rich%20domains&logoColor=white
 [MariaDB]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white 
-[SQL Server]: https://img.shields.io/badge/%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 [MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [MySQL]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[SQLite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [Supabase]: https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
 [Canva]: https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white 
 [Figma]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
