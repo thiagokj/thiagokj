@@ -19,14 +19,16 @@ Posso ajudar em algo? É só chamar.✌️
 
 
 # 📫 Contato:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/thiagocajaiba) [![Gmail](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.cajaiba@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/thiagocajaiba)
+[![Gmail](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.cajaiba@gmail.com)
 
 
 # 💻 Tech Stack:
-![.Net] ![Blazor] ![C#] ![MicrosoftSQLServer] ![Azure]
-![SQLite] ![MySQL] ![Postgres] ![Oracle] ![Docker] 
-![HTML5] ![CSS3] ![JavaScript] ![Bootstrap] ![Markdown] 
-![Cloudflare] ![Postman] ![ShellScript] ![Git] 
+![.Net] ![Blazor] ![C#] ![SQL Server] ![Azure]
+![SQLite] ![MySQL] ![Postgres] ![Oracle] ![CleanCode]
+![SOLID] ![DI] ![Rich Domains] ![Docker] ![HTML5] ![CSS3] ![JavaScript]
+![Bootstrap]
+![Cloudflare] ![Postman] ![ShellScript] ![Git] ![Markdown] 
 
 
 # 🪄 Dev Tools:
@@ -53,7 +55,7 @@ Posso ajudar em algo? É só chamar.✌️
 [Java]: https://img.shields.io/badge/java-%233A75B0.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E 
 [VBNET]: https://img.shields.io/badge/vbnet-%23777BB4.svg?style=for-the-badge&logo=vbnet&logoColor=white
-[TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[DI]: https://img.shields.io/badge/di-%23007ACC.svg?style=for-the-badge&logo=di&logoColor=white
 [Azure]: https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white
 [Cloudflare]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
 [.Net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
@@ -62,7 +64,7 @@ Posso ajudar em algo? É só chamar.✌️
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [jQuery]: https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white
 [NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-[React]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[CleanCode]: https://img.shields.io/badge/cleancode-%2320232a.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB
 [Blazor]: https://img.shields.io/badge/blazor-%23D42029.svg?style=for-the-badge&logo=blazor&logoColor=white
 [Nginx]: https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white
 [MariaDB]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white 
