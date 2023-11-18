@@ -92,15 +92,15 @@ Posso ajudar em algo? É só chamar.✌️
 [CSS3]: https://img.shields.io/badge/css3-%23c777b9.svg?style=for-the-badge&logo=css3&logoColor=white
 [JavaScript]: https://img.shields.io/badge/javascript-%23ba83ca.svg?style=for-the-badge&logo=javascript&logoColor=white
 [Bootstrap]: https://img.shields.io/badge/bootstrap-%23aa8fd8.svg?style=for-the-badge&logo=bootstrap&logoColor=white
-[Markdown]: https://img.shields.io/badge/markdown-169ADF?style=for-the-badge&logo=markdown&logoColor=white
-[Git]: https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
+[Markdown]: https://img.shields.io/badge/markdown-9a9ae1?style=for-the-badge&logo=markdown&logoColor=white
+[Git]: https://img.shields.io/badge/Git-8aa7ec?style=for-the-badge&logo=git&logoColor=white
 
-[MySQL]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-[Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[Oracle]: https://img.shields.io/badge/Oracle-E55744?style=for-the-badge&logo=oracle&logoColor=white
-[Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-[Cloudflare]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
-[Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-[ShellScript]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+[MySQL]: https://img.shields.io/badge/mysql-%2379b3f4.svg?style=for-the-badge&logo=mysql&logoColor=white
+[Postgres]: https://img.shields.io/badge/postgres-%2369bff8.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[Oracle]: https://img.shields.io/badge/Oracle-52cffe?style=for-the-badge&logo=oracle&logoColor=white
+[Docker]: https://img.shields.io/badge/docker-%2341dfff.svg?style=for-the-badge&logo=docker&logoColor=white
+[Cloudflare]: https://img.shields.io/badge/Cloudflare-41dfff?style=for-the-badge&logo=Cloudflare&logoColor=white
+[Postman]: https://img.shields.io/badge/Postman-46eefa?style=for-the-badge&logo=postman&logoColor=white
+[ShellScript]: https://img.shields.io/badge/Shell%20Script-5ffbf1?style=for-the-badge&logo=gnu-bash&logoColor=white
 
 
