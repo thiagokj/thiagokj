@@ -24,10 +24,11 @@ Posso ajudar em algo? É só chamar.✌️
 
 
 # 💻 Tech Stack:
-![.Net] ![Blazor] ![C#] ![SQL Server] ![Azure]
+![.NET] ![C#] ![Blazor] ![Minimal APIs] ![Azure]
+![Entity Framework] ![Dapper] ![SQL Server] 
 ![SQLite] ![MySQL] ![Postgres] ![Oracle] ![CleanCode]
-![SOLID] ![DI] ![Rich Domains] ![Docker] ![HTML5] ![CSS3] ![JavaScript]
-![Bootstrap]
+![SOLID] ![DI] ![Rich Domains] ![Docker]
+![HTML5] ![CSS3] ![JavaScript] ![Bootstrap]
 ![Cloudflare] ![Postman] ![ShellScript] ![Git] ![Markdown] 
 
 
@@ -49,23 +50,25 @@ Posso ajudar em algo? É só chamar.✌️
 - [Hack FC Ligatured](https://github.com/gaplo917/Ligatured-Hack/)
 
 <!--- Badge Links --->
+[.NET]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [C#]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
-[CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[Blazor]: https://img.shields.io/badge/blazor-%23D42029.svg?style=for-the-badge&logo=blazor&logoColor=white
+[Minimal APIs]: https://img.shields.io/badge/minimalapis-%233A75B0.svg?style=for-the-badge&logo=minimalapis&logoColor=white
+
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[Java]: https://img.shields.io/badge/java-%233A75B0.svg?style=for-the-badge&logo=openjdk&logoColor=white
+[CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E 
+
 [VBNET]: https://img.shields.io/badge/vbnet-%23777BB4.svg?style=for-the-badge&logo=vbnet&logoColor=white
 [DI]: https://img.shields.io/badge/di-%23007ACC.svg?style=for-the-badge&logo=di&logoColor=white
 [Azure]: https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white
 [Cloudflare]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
-[.Net]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [Bootstrap]: https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 [Chart.js]: https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [SOLID]: https://img.shields.io/badge/solid-%230769AD.svg?style=for-the-badge&logo=solid&logoColor=white
 [NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [CleanCode]: https://img.shields.io/badge/cleancode-%2320232a.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB
-[Blazor]: https://img.shields.io/badge/blazor-%23D42029.svg?style=for-the-badge&logo=blazor&logoColor=white
 [Rich Domains]: https://img.shields.io/badge/rich/%20domains-%23009639.svg?style=for-the-badge&logo=richdomains&logoColor=white
 [MariaDB]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white 
 [SQL Server]: https://img.shields.io/badge/%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
