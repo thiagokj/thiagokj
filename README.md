@@ -55,10 +55,10 @@ Posso ajudar em algo? É só chamar.✌️
 [Blazor]: https://img.shields.io/badge/blazor-%235a4171.svg?style=for-the-badge&logo=blazor&logoColor=white
 [Minimal APIs]: https://img.shields.io/badge/minimal%20apis-%23614c74.svg?style=for-the-badge&logo=minimal%20apis&logoColor=white
 
-[Entity Framework]: https://img.shields.io/badge/entity%20framework-%23777BB4.svg?style=for-the-badge&logo=entity%20framework&logoColor=white
-[Dapper]: https://img.shields.io/badge/dapper-%23404d59.svg?style=for-the-badge&logo=dapper&logoColor=white
-[SQL Server]: https://img.shields.io/badge/%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
-[SQLite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
+[Entity Framework]: https://img.shields.io/badge/entity%20framework-%23c02d2d.svg?style=for-the-badge&logo=entity%20framework&logoColor=white
+[Dapper]: https://img.shields.io/badge/dapper-%23c43635.svg?style=for-the-badge&logo=dapper&logoColor=white
+[SQL Server]: https://img.shields.io/badge/%20SQL%20Server-c83e3d?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+[SQLite]: https://img.shields.io/badge/sqlite-%23cc4645.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [Azure]: https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white
 
 [CleanCode]: https://img.shields.io/badge/cleancode-%2320232a.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB
