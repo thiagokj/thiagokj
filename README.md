@@ -50,10 +50,10 @@ Posso ajudar em algo? É só chamar.✌️
 - [Hack FC Ligatured](https://github.com/gaplo917/Ligatured-Hack/)
 
 <!--- Badge Links --->
-[.NET]: https://img.shields.io/badge/.NET-5C2D91-9B59B6?style=for-the-badge&logo=.net&logoColor=white
-[C#]: https://img.shields.io/badge/c%23-239120-9B59B6?style=for-the-badge&logo=c-sharp&logoColor=white
-[Blazor]: https://img.shields.io/badge/blazor-D42029-800080?style=for-the-badge&logo=blazor&logoColor=white
-[Minimal APIs]: https://img.shields.io/badge/minimal%20apis-3A75B0-9370DB?style=for-the-badge&logo=minimal%20apis&logoColor=white
+[.NET]: https://img.shields.io/badge/.NET-4b2a69?style=for-the-badge&logo=.net&logoColor=white
+[C#]: https://img.shields.io/badge/c%23-%52356d.svg?style=for-the-badge&logo=c-sharp&logoColor=white
+[Blazor]: https://img.shields.io/badge/blazor-%235a4171.svg?style=for-the-badge&logo=blazor&logoColor=white
+[Minimal APIs]: https://img.shields.io/badge/minimal%20apis-%23614c74.svg?style=for-the-badge&logo=minimal%20apis&logoColor=white
 
 [Entity Framework]: https://img.shields.io/badge/entity%20framework-%23777BB4.svg?style=for-the-badge&logo=entity%20framework&logoColor=white
 [Dapper]: https://img.shields.io/badge/dapper-%23404d59.svg?style=for-the-badge&logo=dapper&logoColor=white
