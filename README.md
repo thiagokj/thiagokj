@@ -55,12 +55,12 @@ Posso ajudar em algo? É só chamar.✌️
 [Blazor]: https://img.shields.io/badge/blazor-%23D42029.svg?style=for-the-badge&logo=blazor&logoColor=white
 [Minimal APIs]: https://img.shields.io/badge/minimalapis-%233A75B0.svg?style=for-the-badge&logo=minimalapis&logoColor=white
 [Entity Framework]: https://img.shields.io/badge/entityframework-%23777BB4.svg?style=for-the-badge&logo=vbnet&logoColor=white
+[Dapper]: https://img.shields.io/badge/dapper-%23404d59.svg?style=for-the-badge&logo=dapper&logoColor=white
 
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E 
 
-[VBNET]: https://img.shields.io/badge/vbnet-%23777BB4.svg?style=for-the-badge&logo=vbnet&logoColor=white
 [DI]: https://img.shields.io/badge/di-%23007ACC.svg?style=for-the-badge&logo=di&logoColor=white
 [Azure]: https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white
 [Cloudflare]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
