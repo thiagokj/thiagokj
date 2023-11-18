@@ -66,9 +66,9 @@ Posso ajudar em algo? É só chamar.✌️
 [NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [CleanCode]: https://img.shields.io/badge/cleancode-%2320232a.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB
 [Blazor]: https://img.shields.io/badge/blazor-%23D42029.svg?style=for-the-badge&logo=blazor&logoColor=white
-[Rich Domains]: https://img.shields.io/badge/richdomains-%23009639.svg?style=for-the-badge&logo=richdomains&logoColor=white
+[Rich Domains]: https://img.shields.io/badge/rich/%20domains-%23009639.svg?style=for-the-badge&logo=richdomains&logoColor=white
 [MariaDB]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white 
-[SQL Server]: https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+[SQL Server]: https://img.shields.io/badge/%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 [MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [MySQL]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
