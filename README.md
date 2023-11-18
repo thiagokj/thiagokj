@@ -51,7 +51,7 @@ Posso ajudar em algo? É só chamar.✌️
 
 <!--- Badge Links --->
 [.NET]: https://img.shields.io/badge/.NET-4b2a69?style=for-the-badge&logo=.net&logoColor=white
-[C#]: https://img.shields.io/badge/c%23-%685778.svg?style=for-the-badge&logo=c-sharp&logoColor=white
+[C#]: https://img.shields.io/badge/c%23-685778.svg?style=for-the-badge&logo=c-sharp&logoColor=white
 [Blazor]: https://img.shields.io/badge/blazor-%235a4171.svg?style=for-the-badge&logo=blazor&logoColor=white
 [Minimal APIs]: https://img.shields.io/badge/minimal%20apis-%23614c74.svg?style=for-the-badge&logo=minimal%20apis&logoColor=white
 
