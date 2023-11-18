@@ -25,10 +25,10 @@ Posso ajudar em algo? É só chamar.✌️
 
 # 💻 Tech Stack:
 ![.NET] ![C#] ![Blazor] ![Minimal APIs] ![Azure]
-![Entity Framework] ![Dapper] ![SQL Server] 
-![SQLite] ![MySQL] ![Postgres] ![Oracle] ![CleanCode]
-![SOLID] ![DI] ![Rich Domains] ![Docker]
+![Entity Framework] ![Dapper] ![SQL Server] ![SQLite]
+![CleanCode] ![SOLID] ![DI] ![Rich Domains]
 ![HTML5] ![CSS3] ![JavaScript] ![Bootstrap]
+![MySQL] ![Postgres] ![Oracle] ![Docker]
 ![Cloudflare] ![Postman] ![ShellScript] ![Git] ![Markdown] 
 
 
@@ -53,8 +53,8 @@ Posso ajudar em algo? É só chamar.✌️
 [.NET]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [C#]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
 [Blazor]: https://img.shields.io/badge/blazor-%23D42029.svg?style=for-the-badge&logo=blazor&logoColor=white
-[Minimal APIs]: https://img.shields.io/badge/minimalapis-%233A75B0.svg?style=for-the-badge&logo=minimalapis&logoColor=white
-[Entity Framework]: https://img.shields.io/badge/entityframework-%23777BB4.svg?style=for-the-badge&logo=vbnet&logoColor=white
+[Minimal APIs]: https://img.shields.io/badge/minimal%20apis-%233A75B0.svg?style=for-the-badge&logo=minimal%20apis&logoColor=white
+[Entity Framework]: https://img.shields.io/badge/entity%20framework-%23777BB4.svg?style=for-the-badge&logo=entity%20framework&logoColor=white
 [Dapper]: https://img.shields.io/badge/dapper-%23404d59.svg?style=for-the-badge&logo=dapper&logoColor=white
 
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
