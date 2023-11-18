@@ -50,16 +50,16 @@ Posso ajudar em algo? É só chamar.✌️
 - [Hack FC Ligatured](https://github.com/gaplo917/Ligatured-Hack/)
 
 <!--- Badge Links --->
-[.NET]: https://img.shields.io/badge/.NET-4b2a69?style=for-the-badge&logo=.net&logoColor=white
-[C#]: https://img.shields.io/badge/c%23-52356d.svg?style=for-the-badge&logo=c-sharp&logoColor=white
-[Blazor]: https://img.shields.io/badge/blazor-%235a4171.svg?style=for-the-badge&logo=blazor&logoColor=white
-[Minimal APIs]: https://img.shields.io/badge/minimal%20apis-%23614c74.svg?style=for-the-badge&logo=minimal%20apis&logoColor=white
+[.NET]: https://img.shields.io/badge/.NET-7e2bb3?style=for-the-badge&logo=.net&logoColor=white
+[C#]: https://img.shields.io/badge/c%23-7e2bb3.svg?style=for-the-badge&logo=c-sharp&logoColor=white
+[Blazor]: https://img.shields.io/badge/blazor-%237734bc.svg?style=for-the-badge&logo=blazor&logoColor=white
+[Minimal APIs]: https://img.shields.io/badge/minimal%20apis-%237734bc.svg?style=for-the-badge&logo=minimal%20apis&logoColor=white
 
-[Entity Framework]: https://img.shields.io/badge/entity%20framework-%23c02d2d.svg?style=for-the-badge&logo=entity%20framework&logoColor=white
-[Dapper]: https://img.shields.io/badge/dapper-%23c43635.svg?style=for-the-badge&logo=dapper&logoColor=white
-[SQL Server]: https://img.shields.io/badge/%20SQL%20Server-c83e3d?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
-[SQLite]: https://img.shields.io/badge/sqlite-%23cc4645.svg?style=for-the-badge&logo=sqlite&logoColor=white
-[Azure]: https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white
+[Entity Framework]: https://img.shields.io/badge/entity%20framework-%236e3bc6.svg?style=for-the-badge&logo=entity%20framework&logoColor=white
+[Dapper]: https://img.shields.io/badge/dapper-%236e3bc6.svg?style=for-the-badge&logo=dapper&logoColor=white
+[SQL Server]: https://img.shields.io/badge/%20SQL%20Server-6443cf?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+[SQLite]: https://img.shields.io/badge/sqlite-%236443cf.svg?style=for-the-badge&logo=sqlite&logoColor=white
+[Azure]: https://img.shields.io/badge/azure-%23564ad8.svg?style=for-the-badge&logo=azure-devops&logoColor=white
 
 [CleanCode]: https://img.shields.io/badge/cleancode-%2320232a.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB
 [KISS]: https://img.shields.io/badge/kiss-6DA55F?style=for-the-badge&logo=kiss&logoColor=white
