@@ -24,12 +24,33 @@ Posso ajudar em algo? É só chamar.✌️
 
 
 # 💻 Tech Stack:
-![.NET] ![C#] ![Blazor] ![Minimal APIs] 
-![Entity Framework] ![Dapper] ![SQL Server] ![SQLite] ![Azure]
-![CleanCode] ![KISS] ![SOLID] ![DI] ![Rich Domains]
-![HTML5] ![CSS3] ![JavaScript] ![Bootstrap]
-![MySQL] ![Postgres] ![Oracle] ![Docker]
-![Cloudflare] ![Postman] ![ShellScript] ![Git] ![Markdown] 
+![.NET] 
+![C#]
+![Blazor]
+![Minimal APIs] 
+![Entity Framework]
+![Dapper]
+![SQL Server]
+![SQLite]
+![Azure]
+![CleanCode]
+![KISS]
+![SOLID]
+![DI]
+![Rich Domains]
+![HTML5]
+![CSS3]
+![JavaScript]
+![Bootstrap]
+![Markdown] 
+![Git] 
+![MySQL]
+![Postgres] 
+![Oracle]
+![Docker]
+![Cloudflare] 
+![Postman]
+![ShellScript] 
 
 
 # 🪄 Dev Tools:
@@ -71,21 +92,15 @@ Posso ajudar em algo? É só chamar.✌️
 [CSS3]: https://img.shields.io/badge/css3-%23c777b9.svg?style=for-the-badge&logo=css3&logoColor=white
 [JavaScript]: https://img.shields.io/badge/javascript-%23ba83ca.svg?style=for-the-badge&logo=javascript&logoColor=white
 [Bootstrap]: https://img.shields.io/badge/bootstrap-%23aa8fd8.svg?style=for-the-badge&logo=bootstrap&logoColor=white
+[Markdown]: https://img.shields.io/badge/markdown-169ADF?style=for-the-badge&logo=markdown&logoColor=white
+[Git]: https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
 
-[Cloudflare]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
-[Chart.js]: https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white
-[Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
-[MariaDB]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white 
-[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [MySQL]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[Supabase]: https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
-[Canva]: https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white 
-[Figma]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
-[Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-[Notion]: https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
-[Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-[Markdown]: https://img.shields.io/badge/markdown-169ADF?style=for-the-badge&logo=markdown&logoColor=white
-[ShellScript]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
-[Git]: https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white
 [Oracle]: https://img.shields.io/badge/Oracle-E55744?style=for-the-badge&logo=oracle&logoColor=white
+[Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[Cloudflare]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white
+[Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+[ShellScript]: https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+
+
