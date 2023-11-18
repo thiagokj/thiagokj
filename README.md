@@ -61,11 +61,11 @@ Posso ajudar em algo? É só chamar.✌️
 [SQLite]: https://img.shields.io/badge/sqlite-%236443cf.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [Azure]: https://img.shields.io/badge/azure-%23564ad8.svg?style=for-the-badge&logo=azure-devops&logoColor=white
 
-[CleanCode]: https://img.shields.io/badge/cleancode-b95f1a.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB
-[KISS]: https://img.shields.io/badge/kiss-b95817?style=for-the-badge&logo=kiss&logoColor=white
-[SOLID]: https://img.shields.io/badge/solid-b84b12.svg?style=for-the-badge&logo=solid&logoColor=white
-[DI]: https://img.shields.io/badge/di-b84b12.svg?style=for-the-badge&logo=di&logoColor=white
-[Rich Domains]: https://img.shields.io/badge/rich%20domains-b74311.svg?style=for-the-badge&logo=rich%20domains&logoColor=white
+[CleanCode]: https://img.shields.io/badge/cleancode-051937.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB
+[KISS]: https://img.shields.io/badge/kiss-004d7a?style=for-the-badge&logo=kiss&logoColor=white
+[SOLID]: https://img.shields.io/badge/solid-008793.svg?style=for-the-badge&logo=solid&logoColor=white
+[DI]: https://img.shields.io/badge/di-00bf72.svg?style=for-the-badge&logo=di&logoColor=white
+[Rich Domains]: https://img.shields.io/badge/rich%20domains-a8eb12.svg?style=for-the-badge&logo=rich%20domains&logoColor=white
 
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
