@@ -54,6 +54,7 @@ Posso ajudar em algo? É só chamar.✌️
 [C#]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
 [Blazor]: https://img.shields.io/badge/blazor-%23D42029.svg?style=for-the-badge&logo=blazor&logoColor=white
 [Minimal APIs]: https://img.shields.io/badge/minimalapis-%233A75B0.svg?style=for-the-badge&logo=minimalapis&logoColor=white
+[Entity Framework]: https://img.shields.io/badge/entityframework-%23777BB4.svg?style=for-the-badge&logo=vbnet&logoColor=white
 
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
@@ -69,7 +70,7 @@ Posso ajudar em algo? É só chamar.✌️
 [SOLID]: https://img.shields.io/badge/solid-%230769AD.svg?style=for-the-badge&logo=solid&logoColor=white
 [NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [CleanCode]: https://img.shields.io/badge/cleancode-%2320232a.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB
-[Rich Domains]: https://img.shields.io/badge/rich/%20domains-%23009639.svg?style=for-the-badge&logo=richdomains&logoColor=white
+[Rich Domains]: https://img.shields.io/badge/rich%20domains-%23009639.svg?style=for-the-badge&logo=rich%20domains&logoColor=white
 [MariaDB]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white 
 [SQL Server]: https://img.shields.io/badge/%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 [MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
