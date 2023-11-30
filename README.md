@@ -1,4 +1,4 @@
-Olá, bem vindo ao meu perfil. Meu nome é Thiago e atuo com Tecnologia desde 2007. 🤖
+Oi, obrigado pela visita. Meu nome é Thiago e atuo com Tecnologia desde 2007. 🤖
 
 Atualmente trabalho com a Stack .NET:
  - Blazor
