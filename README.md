@@ -3,8 +3,8 @@ Olá, bem vindo ao meu perfil. Meu nome é Thiago e atuo com Tecnologia desde 20
 Atualmente trabalho com a Stack .NET:
  - Blazor
  - Minimal APIs
- - AspNet
- - Windows Forms Csharp | VBNET
+ - ASP.NET
+ - Windows Forms C Sharp | VBNET
  - Migração e sustentação de legados
 
 Acredito que o equilíbrio é a chave para todas as soluções. O básico funciona bem e tudo começa com um bom planejamento e arquitetura.
