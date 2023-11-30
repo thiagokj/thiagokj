@@ -13,7 +13,7 @@ Procuro aplicar nos meus códigos uma modelagem limpa, utilizando boas práticas
 
 Me atualizo sempre com o conteúdo do [balta.io](https://balta.io/). 🌱
 
-Sou um eterno aprendiz e compartilho aquilo que aprendo. 🛹 
+Sou um eterno aprendiz e compartilho aquilo que aprendo. 😎 
 
 Posso ajudar em algo? É só chamar.✌️
 
