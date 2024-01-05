@@ -9,6 +9,22 @@ Atualmente trabalho com a Stack .NET:
 
 Acredito que o equilíbrio é a chave para todas as soluções. O básico funciona bem e tudo começa com um bom planejamento e arquitetura.
 
+```mermaid
+---
+title: FLUXO DE DESENVOLVIMENTO SIMPLIFICADO
+---
+flowchart LR
+ subgraph Input
+    Contexto -.-> Modelagem
+ end
+ subgraph Output
+    Modelagem -.-> Processamento -.-> Saída
+ end
+```
+Tudo começa com a definição do contexto. Qual problema vamos resolver? Definimos as entradas (inputs), modelando e organizando as informações.
+
+Em seguida, temos o tratamento e processamento das informações para gerar as saídas (outputs), conforme a proposta da aplicação.
+
 Procuro aplicar nos meus códigos uma modelagem limpa, utilizando boas práticas com o nome expressivo para Classes, Propriedades e Métodos.
 
 Me atualizo sempre com o conteúdo do [balta.io](https://balta.io/). 🌱
