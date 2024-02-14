@@ -36,7 +36,7 @@ Posso ajudar em algo? É só chamar.✌️
 
 # 📫 Contato:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/thiagocajaiba)
-[![Gmail](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.cajaiba@gmail.com)
+[![Gmail](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@thiagokj.cloud)
 
 
 # 💻 Tech Stack:
