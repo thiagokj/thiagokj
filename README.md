@@ -4,7 +4,7 @@ Atualmente trabalho com a Stack .NET:
  - Blazor
  - Minimal APIs
  - ASP.NET
- - Windows Forms C Sharp | VBNET
+ - Windows Forms
  - Migração e sustentação de legados
 
 Acredito que o equilíbrio é a chave para todas as soluções. O básico funciona bem e tudo começa com um bom planejamento e arquitetura.
