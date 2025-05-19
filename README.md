@@ -71,6 +71,7 @@ Posso ajudar em algo? É só chamar.✌️
 
 # 🪄 Dev Tools:
 
+- JetBrains Rider
 - VS Code
 - Visual Studio
 - Azure Data Studio
