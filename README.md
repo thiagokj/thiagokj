@@ -27,7 +27,7 @@ Em seguida, temos o tratamento e processamento das informações para gerar as s
 
 Procuro aplicar nos meus códigos uma modelagem limpa, utilizando boas práticas com o nome expressivo para Classes, Propriedades e Métodos.
 
-Me atualizo sempre com o conteúdo do [balta.io](https://balta.io/). 🌱
+Me atualizo sempre com os conteúdos do [balta.io](https://balta.io/) e [curso.dev](https://curso.dev/) . 🌱
 
 Sou um eterno aprendiz e compartilho aquilo que aprendo. 😎 
 
