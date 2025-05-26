@@ -84,8 +84,7 @@ Posso ajudar em algo? É só chamar.✌️
 # 🎨Themes:
 
 - [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
-- [Hack Font](https://github.com/source-foundry/Hack "font-size: 12~14px. ide-zoom: 90%")
-- [Hack FC Ligatured](https://github.com/gaplo917/Ligatured-Hack/)
+- [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
 
 <!--- Badge Links --->
 [.NET]: https://img.shields.io/badge/.NET-7e2bb3?style=for-the-badge&logo=.net&logoColor=white
@@ -119,5 +118,3 @@ Posso ajudar em algo? É só chamar.✌️
 [Cloudflare]: https://img.shields.io/badge/Cloudflare-e8d86b?style=for-the-badge&logo=Cloudflare&logoColor=white
 [Postman]: https://img.shields.io/badge/Postman-c4ea66?style=for-the-badge&logo=postman&logoColor=white
 [ShellScript]: https://img.shields.io/badge/Shell%20Script-93e346?style=for-the-badge&logo=gnu-bash&logoColor=white
-
-
