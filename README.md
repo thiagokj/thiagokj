@@ -1,13 +1,22 @@
-Oi, obrigado pela visita. Meu nome é Thiago e atuo com Tecnologia desde 2007. 🤖
+👋 Seja bem-vindo(a), Dev ou Tech Recruiter!  
+Sou o **Thiago**, atuando com **Tecnologia desde 2007**. 🤖
 
-Atualmente trabalho com a Stack .NET:
- - Blazor
- - Minimal APIs
- - ASP.NET
- - Windows Forms
- - Migração e sustentação de legados
+💼 Atualmente trabalho com a stack **.NET**, atuando nas seguintes frentes:
 
-Acredito que o equilíbrio é a chave para todas as soluções. O básico funciona bem e tudo começa com um bom planejamento e arquitetura.
+- **Blazor** (WebAssembly e Server) para aplicações modernas e interativas  
+- **Minimal APIs** para criação de APIs enxutas e performáticas  
+- **ASP.NET** em aplicações web robustas com MVC e Razor  
+- **Windows Forms** para manutenção e evolução de sistemas desktop legados  
+- **Migração e sustentação de sistemas legados**, com foco em estabilidade e modernização  
+- **Integrações com APIs externas** e consumo de serviços REST  
+- **Modelagem de domínio**, organização em camadas e aplicação de boas práticas (SOLID, Clean Architecture)  
+- **Banco de dados** com SQL Server, uso eficiente de procedures, views e queries otimizadas  
+- **Deploy e versionamento** com Git, Azure DevOps e GitHub Actions  
+- **Aplicação de boas práticas de segurança**, com atenção à exposição de dados e validações  
+- **Criação de testes automatizados** (unitários e integrados) para garantir confiabilidade  
+- **Foco em performance e experiência do usuário**, evitando complexidade desnecessária
+
+🧠 Acredito que o equilíbrio é a chave para boas soluções. O básico funciona — e tudo começa com **planejamento e arquitetura**.
 
 ```mermaid
 ---
@@ -21,17 +30,17 @@ flowchart LR
     Modelagem -.-> Processamento -.-> Saída
  end
 ```
-Tudo começa com a definição do contexto. Qual problema vamos resolver? Definimos as entradas (inputs), modelando e organizando as informações.
+🛠️ Gosto de pensar o desenvolvimento como um processo claro:
+ 1. **Entendimento do contexto**: Qual problema estamos resolvendo?  
+ 1. **Modelagem das entradas (inputs)**: Organização e estruturação da informação  
+ 1. **Processamento e entrega das saídas (outputs)**: De forma clara e eficiente
 
-Em seguida, temos o tratamento e processamento das informações para gerar as saídas (outputs), conforme a proposta da aplicação.
+🧹 Busco sempre aplicar uma **modelagem limpa**, com **boas práticas** e nomes expressivos para classes, propriedades e métodos.
 
-Procuro aplicar nos meus códigos uma modelagem limpa, utilizando boas práticas com o nome expressivo para Classes, Propriedades e Métodos.
+📚 Me mantenho atualizado com os conteúdos do **balta.io** e **curso.dev**. 🌱  
+🎓 Sou um eterno aprendiz e gosto de compartilhar o que aprendo. 😎
 
-Me atualizo sempre com os conteúdos do [balta.io](https://balta.io/) e [curso.dev](https://curso.dev/) . 🌱
-
-Sou um eterno aprendiz e compartilho aquilo que aprendo. 😎 
-
-Posso ajudar em algo? É só chamar.✌️
+📬 **Posso ajudar em algo?** É só chamar. ✌️
 
 
 # 📫 Contato:
