@@ -1,22 +1,22 @@
 👋 Seja bem-vindo(a), Dev ou Tech Recruiter!  
-Sou o **Thiago**, atuando com **Tecnologia desde 2007**. 🤖
+Sou o **Thiago**, com experiência em **Tecnologia desde 2007**. 🤖
 
-💼 Atualmente trabalho com a stack **.NET**, atuando nas seguintes frentes:
+💼 Atualmente trabalho com a stack **.NET**, explorando as seguintes frentes:
 
 - **Blazor** (WebAssembly e Server) para aplicações modernas e interativas  
-- **Minimal APIs** para criação de APIs enxutas e performáticas  
-- **ASP.NET** em aplicações web robustas com MVC e Razor  
+- **Minimal APIs** para construção de APIs enxutas e performáticas  
+- **ASP.NET** em soluções web robustas com MVC e Razor  
 - **Windows Forms** para manutenção e evolução de sistemas desktop legados  
-- **Migração e sustentação de sistemas legados**, com foco em estabilidade e modernização  
-- **Integrações com APIs externas** e consumo de serviços REST  
+- **Migração e sustentação de sistemas existentes**, com foco em estabilidade e modernização  
+- **Integração com APIs externas** e consumo de serviços REST  
 - **Modelagem de domínio**, organização em camadas e aplicação de boas práticas (SOLID, Clean Architecture)  
-- **Banco de dados** com SQL Server, uso eficiente de procedures, views e queries otimizadas  
-- **Deploy e versionamento** com Git, Azure DevOps e GitHub Actions  
-- **Aplicação de boas práticas de segurança**, com atenção à exposição de dados e validações  
-- **Criação de testes automatizados** (unitários e integrados) para garantir confiabilidade  
-- **Foco em performance e experiência do usuário**, evitando complexidade desnecessária
+- **Banco de dados** com SQL Server, utilizando procedures, views e queries otimizadas  
+- **Versionamento e automações de deploy** com Git, Azure DevOps e GitHub Actions  
+- **Adoção de práticas de segurança**, com atenção à exposição de dados e validações  
+- **Testes automatizados** (unitários e integrados) para garantir confiabilidade  
+- **Atenção à performance e experiência do usuário**, evitando complexidade desnecessária
 
-🧠 Acredito que o equilíbrio é a chave para boas soluções. O básico funciona — e tudo começa com **planejamento e arquitetura**.
+🧠 Acredito que o equilíbrio é a chave para soluções eficazes. O básico funciona — e tudo começa com **planejamento e arquitetura**.
 
 ```mermaid
 ---
@@ -30,15 +30,16 @@ flowchart LR
     Modelagem -.-> Processamento -.-> Saída
  end
 ```
-🛠️ Gosto de pensar o desenvolvimento como um processo claro:
- 1. **Entendimento do contexto**: Qual problema estamos resolvendo?  
- 1. **Modelagem das entradas (inputs)**: Organização e estruturação da informação  
- 1. **Processamento e entrega das saídas (outputs)**: De forma clara e eficiente
 
-🧹 Busco sempre aplicar uma **modelagem limpa**, com **boas práticas** e nomes expressivos para classes, propriedades e métodos.
+🛠️ Encaro o desenvolvimento como um processo estruturado:
+ 1. **Entendimento do contexto**: Qual problema estamos resolvendo?  
+ 2. **Modelagem das entradas (inputs)**: Organização e estruturação das informações  
+ 3. **Processamento e entrega das saídas (outputs)**: Clareza, eficiência e propósito
+
+🧹 Procuro aplicar uma **modelagem limpa**, com **boas práticas** e nomes expressivos para classes, propriedades e métodos.
 
 📚 Me mantenho atualizado com os conteúdos do **balta.io** e **curso.dev**. 🌱  
-🎓 Sou um eterno aprendiz e gosto de compartilhar o que aprendo. 😎
+🎓 Sou um eterno aprendiz e gosto de compartilhar o que descubro. 😎
 
 📬 **Posso ajudar em algo?** É só chamar. ✌️
 
