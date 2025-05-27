@@ -24,7 +24,8 @@ Sou o **Thiago**, com experiência em **Tecnologia desde 2007**. 🤖
 - ⚙️ **Atenção à performance e experiência do usuário**, evitando complexidade desnecessária  
 
 🚀 **Publicação e Versionamento**
-- 🔀 **Versionamento e automações de deploy** com Git, Azure DevOps e GitHub Actions  
+- 🔀 **Versionamento e automações de deploy** com Git e GitHub Actions  
+
 
 
 🧠 Acredito que o equilíbrio é a chave para soluções eficazes. O básico funciona — e tudo começa com **planejamento e arquitetura**.
