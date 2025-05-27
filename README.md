@@ -97,16 +97,17 @@ Utilizo IA como uma **ferramenta prática e estratégica** para acelerar meu flu
 ![ShellScript] 
 
 
-# 🪄 Dev Tools:
+# 🪄 Dev Tools
 
-- JetBrains Rider
-- VS Code
-- Visual Studio
-- Azure Data Studio
-- SQL Server Management Studio
-- Notepad ++
-- MongoDB Compass
-- Docker Desktop
+[![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/rider/)
+[![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/sql/azure-data-studio/)
+[![SQL Server Management Studio](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/ssms/)
+[![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/products/docker-desktop/)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)](https://notepad-plus-plus.org/)
+
 
 # 🧠 AI Tools
 
