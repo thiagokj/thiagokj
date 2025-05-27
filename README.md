@@ -9,7 +9,7 @@ Sou o **Thiago**, com experiência em **Tecnologia desde 2007**. 🤖
 
 🔧 **Backend e Integrações**
 - 🔌 **Minimal APIs** para construção de APIs enxutas e performáticas  
-- 🧭 **ASP.NET** em soluções web robustas com MVC e Razor  
+- 🧭 **ASP.NET** em soluções web robustas com foco em APIs e rotas segmentadas  
 - 🗄️ **Banco de dados** com SQL Server, utilizando procedures, views e queries otimizadas  
 - 🔄 **Integração com APIs externas** e consumo de serviços REST  
 - 🧳 **Migração e sustentação de sistemas existentes**, com foco em estabilidade e modernização  
@@ -17,6 +17,7 @@ Sou o **Thiago**, com experiência em **Tecnologia desde 2007**. 🤖
 
 🎨 **Frontend**
 - 🎯 **Blazor** (WebAssembly e Server) para aplicações modernas e interativas  
+- 🧾 **Razor Views** para construção de interfaces dinâmicas e integração com dados da API  
 
 🧪 **Testes e Qualidade**
 - 🧪 **Testes automatizados** (unitários e integrados) para garantir confiabilidade  
