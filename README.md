@@ -46,6 +46,14 @@ flowchart LR
  2. **Modelagem das entradas (inputs)**: Organização e estruturação das informações  
  3. **Processamento e entrega das saídas (outputs)**: Clareza, eficiência e propósito
 
+🤖 **Produtividade com Inteligência Artificial**  
+Utilizo IA como uma **ferramenta prática e estratégica** para acelerar meu fluxo de trabalho — com foco em produtividade, qualidade e organização.
+
+- Faço uso do **ChatGPT Plus (GPT-4-turbo)**, com **prompts otimizados** para documentação, revisão de código, análise de logs, estruturação de ideias e automação de tarefas repetitivas.  
+- Complemento com ferramentas como **NotebookLM / Gemini**, **DeepSeek** e outros recursos de IA para gerar insights, documentações visuais, esquemas e testes.  
+- Sempre com **curadoria humana, senso crítico e responsabilidade** — IA me ajuda a ganhar tempo, mas **não substitui a análise técnica nem a tomada de decisão**.
+
+
 🧹 Procuro aplicar uma **modelagem limpa**, com **boas práticas** e nomes expressivos para classes, propriedades e métodos.
 
 📚 Me mantenho atualizado com os conteúdos do [curso.dev](https://curso.dev) e [balta.io](https://balta.io). 🌱  
@@ -100,6 +108,11 @@ flowchart LR
 - MongoDB Compass
 - Docker Desktop
 
+# 🧠 AI Tools
+
+[![ChatGPT Plus](https://img.shields.io/badge/ChatGPT_Plus-10a37f?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)
+[![NotebookLM / Gemini](https://img.shields.io/badge/NotebookLM_/_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepnote&logoColor=white)](https://www.deepseek.com/)
 
 # 🎨Themes:
 
