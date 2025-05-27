@@ -115,34 +115,10 @@ Utilizo IA como uma **ferramenta prática e estratégica** para acelerar meu flu
 [![NotebookLM / Gemini](https://img.shields.io/badge/NotebookLM_/_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepnote&logoColor=white)](https://www.deepseek.com/)
 
-# 🪄 Dev Tools (flat)
+# 🎨 Themes
 
-![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=flat&logo=jetbrains&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepadplusplus&logoColor=black)
-![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=flat&logo=docker&logoColor=white)
-
-
-# 🪄 Dev Tools (plastic)
-
-![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=plastic&logo=jetbrains&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=plastic&logo=google-chrome&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual-studio&logoColor=white)
-![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=plastic&logo=microsoftazure&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=plastic&logo=notepadplusplus&logoColor=black)
-![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=plastic&logo=docker&logoColor=white)
-
-
-# 🎨Themes:
-
-- [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
-- [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
+[![One Dark Pro](https://img.shields.io/badge/One_Dark_Pro-282C34?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Binaryify/OneDark-Pro)
+[![JetBrains Mono](https://img.shields.io/badge/JetBrains_Mono-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/pt-br/lp/mono/)
 
 <!--- Badge Links --->
 [.NET]: https://img.shields.io/badge/.NET-7e2bb3?style=for-the-badge&logo=.net&logoColor=white
