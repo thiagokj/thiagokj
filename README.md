@@ -26,10 +26,6 @@ Sou o **Thiago**, com experiência em **Tecnologia desde 2007**. 🤖
 🚀 **Publicação e Versionamento**
 - 🔀 **Versionamento e automações de deploy** com Git e GitHub Actions  
 
-
-
-🧠 Acredito que o equilíbrio é a chave para soluções eficazes. O básico funciona — e tudo começa com **planejamento e arquitetura**.
-
 ```mermaid
 ---
 title: FLUXO DE DESENVOLVIMENTO SIMPLIFICADO
@@ -42,6 +38,8 @@ flowchart LR
     Modelagem -.-> Processamento -.-> Saída
  end
 ```
+
+⚖️ Acredito que o equilíbrio é a chave para soluções eficazes. O básico funciona — e tudo começa com **planejamento e arquitetura**.
 
 🛠️ Encaro o desenvolvimento como um processo estruturado:
  1. **Entendimento do contexto**: Qual problema estamos resolvendo?  
