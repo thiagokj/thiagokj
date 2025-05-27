@@ -3,18 +3,28 @@ Sou o **Thiago**, com experiência em **Tecnologia desde 2007**. 🤖
 
 💼 Atualmente trabalho com a stack **.NET**, explorando as seguintes frentes:
 
-- **Blazor** (WebAssembly e Server) para aplicações modernas e interativas  
-- **Minimal APIs** para construção de APIs enxutas e performáticas  
-- **ASP.NET** em soluções web robustas com MVC e Razor  
-- **Windows Forms** para manutenção e evolução de sistemas desktop legados  
-- **Migração e sustentação de sistemas existentes**, com foco em estabilidade e modernização  
-- **Integração com APIs externas** e consumo de serviços REST  
-- **Modelagem de domínio**, organização em camadas e aplicação de boas práticas (SOLID, Clean Architecture)  
-- **Banco de dados** com SQL Server, utilizando procedures, views e queries otimizadas  
-- **Versionamento e automações de deploy** com Git, Azure DevOps e GitHub Actions  
-- **Adoção de práticas de segurança**, com atenção à exposição de dados e validações  
-- **Testes automatizados** (unitários e integrados) para garantir confiabilidade  
-- **Atenção à performance e experiência do usuário**, evitando complexidade desnecessária
+🧠 **Planejamento e Arquitetura**
+- 🧩 **Modelagem de domínio**, organização em camadas e aplicação de boas práticas (SOLID, Clean Architecture)  
+- 🛡️ **Adoção de práticas de segurança**, com atenção à exposição de dados e validações  
+
+🔧 **Backend e Integrações**
+- 🔌 **Minimal APIs** para construção de APIs enxutas e performáticas  
+- 🧭 **ASP.NET** em soluções web robustas com MVC e Razor  
+- 🗄️ **Banco de dados** com SQL Server, utilizando procedures, views e queries otimizadas  
+- 🔄 **Integração com APIs externas** e consumo de serviços REST  
+- 🧳 **Migração e sustentação de sistemas existentes**, com foco em estabilidade e modernização  
+- 🖥️ **Windows Forms** para manutenção e evolução de sistemas desktop legados  
+
+🎨 **Frontend**
+- 🎯 **Blazor** (WebAssembly e Server) para aplicações modernas e interativas  
+
+🧪 **Testes e Qualidade**
+- 🧪 **Testes automatizados** (unitários e integrados) para garantir confiabilidade  
+- ⚙️ **Atenção à performance e experiência do usuário**, evitando complexidade desnecessária  
+
+🚀 **Publicação e Versionamento**
+- 🔀 **Versionamento e automações de deploy** com Git, Azure DevOps e GitHub Actions  
+
 
 🧠 Acredito que o equilíbrio é a chave para soluções eficazes. O básico funciona — e tudo começa com **planejamento e arquitetura**.
 
