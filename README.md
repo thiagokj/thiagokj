@@ -48,7 +48,7 @@ flowchart LR
 
 🧹 Procuro aplicar uma **modelagem limpa**, com **boas práticas** e nomes expressivos para classes, propriedades e métodos.
 
-📚 Me mantenho atualizado com os conteúdos do [balta.io](https://balta.io) e [curso.dev](https://curso.dev). 🌱  
+📚 Me mantenho atualizado com os conteúdos do [curso.dev](https://curso.dev) e [balta.io](https://balta.io). 🌱  
 🎓 Sou um eterno aprendiz e gosto de compartilhar o que descubro. 😎
 
 📬 **Posso ajudar em algo?** É só chamar. ✌️
