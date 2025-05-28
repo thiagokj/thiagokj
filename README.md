@@ -106,14 +106,14 @@ Utilizo IA como uma **ferramenta prática e estratégica** para acelerar meu flu
 ![Git](https://img.shields.io/badge/Git-da553a?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Boas Práticas & Arquitetura
+### Boas Práticas e Arquitetura
 ![CleanCode](https://img.shields.io/badge/cleancode-051937.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB)
 ![KISS](https://img.shields.io/badge/kiss-004d7a?style=for-the-badge&logo=kiss&logoColor=white)
 ![SOLID](https://img.shields.io/badge/solid-008793.svg?style=for-the-badge&logo=solid&logoColor=white)
 ![DI](https://img.shields.io/badge/di-00bf72.svg?style=for-the-badge&logo=di&logoColor=white)
 ![Rich Domains](https://img.shields.io/badge/rich%20domains-a8eb12.svg?style=for-the-badge&logo=rich%20domains&logoColor=white)
 
-### Documentação & Gestão
+### Documentação e Gestão
 
 ![GitBook](https://img.shields.io/badge/GitBook-7B42BC?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
