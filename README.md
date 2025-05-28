@@ -1,7 +1,7 @@
 # 👋 Seja bem-vindo(a)
 
 Olá, Dev ou Tech Recruiter!  
-Sou o **Thiago**, com experiência em **Tecnologia desde 2007**.
+Sou o **Thiago (Cajá)**, com experiência em **Tecnologia desde 2007**.
 
 ## 💼 Stack de Trabalho
 
