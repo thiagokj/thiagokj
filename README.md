@@ -19,7 +19,7 @@ Atualmente trabalho com a stack **.NET**, explorando as seguintes frentes:
 - 🧳 **Migração e sustentação de sistemas existentes**, com foco em estabilidade e modernização  
 - 🖥️ **Windows Forms** para manutenção e evolução de sistemas desktop legados  
 
-### 🎨 Frontend
+### 🖼️ Frontend
 - 🎯 **Blazor** (WebAssembly e Server) para aplicações modernas e interativas  
 - 🧾 **Razor Views** para construção de interfaces dinâmicas e integração com dados da API  
 
