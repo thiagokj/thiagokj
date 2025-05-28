@@ -132,5 +132,6 @@ Procuro aplicar uma **modelagem limpa**, com **boas práticas** e nomes expressi
 # 🎨 Themes
 
 [![JetBrains Mono](https://img.shields.io/badge/JetBrains_Mono-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/pt-br/lp/mono/)
+[![JetBrainsMono Nerd Font](https://img.shields.io/badge/JetBrainsMono-Nerd_Font-333333?style=for-the-badge&logo=nerdfonts&logoColor=white)](https://www.nerdfonts.com/font-downloads)
 [![One Dark Pro](https://img.shields.io/badge/One_Dark_Pro-282C34?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Binaryify/OneDark-Pro)
 ![Oh My Posh - Hunk](https://img.shields.io/badge/Oh_My_Posh-Hunk_Theme-4B32C3?style=for-the-badge&logo=powershell&logoColor=white)
