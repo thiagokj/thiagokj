@@ -75,43 +75,32 @@ Utilizo IA como uma **ferramenta prática e estratégica** para acelerar meu flu
 ![HTML5](https://img.shields.io/badge/html5-%23d16ba5.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23c777b9.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-9a9ae1?style=for-the-badge&logo=markdown&logoColor=white)
-
 ![Blazor](https://img.shields.io/badge/blazor-%237734bc.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![Minimal APIs](https://img.shields.io/badge/minimal%20apis-%237734bc.svg?style=for-the-badge&logo=minimal%20apis&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/entity%20framework-%236e3bc6.svg?style=for-the-badge&logo=entity%20framework&logoColor=white)
 ![Dapper](https://img.shields.io/badge/dapper-%236e3bc6.svg?style=for-the-badge&logo=dapper&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23aa8fd8.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 ![SQL Server](https://img.shields.io/badge/%20SQL%20Server-6443cf?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%236443cf.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23e2763b.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23e89443.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-ebb252?style=for-the-badge&logo=oracle&logoColor=white)
-
 ![Azure](https://img.shields.io/badge/azure-%23564ad8.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%23edce69.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-e8d86b?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
 ![Postman](https://img.shields.io/badge/Postman-c4ea66?style=for-the-badge&logo=postman&logoColor=white)
-
 ![ShellScript](https://img.shields.io/badge/Shell%20Script-93e346?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-da553a?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![CleanCode](https://img.shields.io/badge/cleancode-051937.svg?style=for-the-badge&logo=cleancode&logoColor=%2361DAFB)
 ![KISS](https://img.shields.io/badge/kiss-004d7a?style=for-the-badge&logo=kiss&logoColor=white)
 ![SOLID](https://img.shields.io/badge/solid-008793.svg?style=for-the-badge&logo=solid&logoColor=white)
 ![DI](https://img.shields.io/badge/di-00bf72.svg?style=for-the-badge&logo=di&logoColor=white)
 ![Rich Domains](https://img.shields.io/badge/rich%20domains-a8eb12.svg?style=for-the-badge&logo=rich%20domains&logoColor=white)
-
-### Documentação e Gestão
-
 ![GitBook](https://img.shields.io/badge/GitBook-7B42BC?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-&nbsp;
 
 # 🧠 AI Tools
 
@@ -136,3 +125,5 @@ Utilizo IA como uma **ferramenta prática e estratégica** para acelerar meu flu
 
 [![JetBrains Mono](https://img.shields.io/badge/JetBrains_Mono-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/pt-br/lp/mono/)
 [![One Dark Pro](https://img.shields.io/badge/One_Dark_Pro-282C34?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Binaryify/OneDark-Pro)
+![Oh My Posh - Hunk](https://img.shields.io/badge/Oh_My_Posh-Hunk_Theme-4B32C3?style=for-the-badge&logo=powershell&logoColor=white)
+
