@@ -74,7 +74,8 @@ Procuro aplicar uma **modelagem limpa**, com **boas práticas** e nomes expressi
 
 ✌️ **Posso ajudar em algo?** É só chamar. 
 
-# 📫 Contato:
+# 📫 Contato
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/thiagocajaiba)
 [![Gmail](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.cajaiba@gmail.com)
 
@@ -117,14 +118,13 @@ Procuro aplicar uma **modelagem limpa**, com **boas práticas** e nomes expressi
 ![DI](https://img.shields.io/badge/di-00bf72.svg?style=for-the-badge&logo=di&logoColor=white)
 ![Rich Domains](https://img.shields.io/badge/rich%20domains-a8eb12.svg?style=for-the-badge&logo=rich%20domains&logoColor=white)
 
-
 # 🧠 AI Tools
 
 [![ChatGPT Plus](https://img.shields.io/badge/ChatGPT_Plus-10a37f?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)
 [![NotebookLM / Gemini](https://img.shields.io/badge/NotebookLM_/_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepnote&logoColor=white)](https://www.deepseek.com/)
 
-# 🪄 Dev Tools
+# 🪄 Dev Tools & Themes
 
 [![JetBrains Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/rider/)
 [![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
@@ -134,10 +134,12 @@ Procuro aplicar uma **modelagem limpa**, com **boas práticas** e nomes expressi
 [![SQL Server Management Studio](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/ssms/)
 [![Docker Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/products/docker-desktop/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)](https://notepad-plus-plus.org/)
-
-# 🎨 Themes
-
 [![JetBrains Mono](https://img.shields.io/badge/JetBrains_Mono-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/pt-br/lp/mono/)
 [![JetBrainsMono Nerd Font](https://img.shields.io/badge/JetBrainsMono-Nerd_Font-333333?style=for-the-badge&logo=nerdfonts&logoColor=white)](https://www.nerdfonts.com/font-downloads)
 [![One Dark Pro](https://img.shields.io/badge/One_Dark_Pro-282C34?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Binaryify/OneDark-Pro)
 ![Oh My Posh - Hunk](https://img.shields.io/badge/Oh_My_Posh-Hunk_Theme-4B32C3?style=for-the-badge&logo=powershell&logoColor=white)
+
+# 📈 GitHub Stats
+
+![Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagokj&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokj&layout=compact&theme=radical)
