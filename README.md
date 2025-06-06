@@ -3,39 +3,43 @@
 Olá, Dev ou Tech Recruiter!  
 Sou o **Thiago (Cajá)**, me aventurando na área de **Tecnologia desde 2007**.
 
+Essa aqui é a minha rede social favorita de longe! Olha esse monte de código... hehe.
+
+Meus valores? Humilde, trabalhador e dedicado.
+
 ## 💼 Stack de Trabalho
 
 Atualmente trabalho com a stack **.NET**, explorando as seguintes frentes:
 
 ### 🧠 Planejamento e Arquitetura
-- 🧩 **Modelagem de domínio**, organização em camadas e aplicação de boas práticas (SOLID, Clean Architecture)  
-- 🛡️ **Adoção de práticas de segurança**, com atenção à exposição de dados e validações  
+- **Modelagem de domínio**, organização em camadas e aplicação de boas práticas (SOLID, Clean Architecture)  
+- **Adoção de práticas de segurança**, com atenção à exposição de dados e validações  
 
 ### 🔧 Backend e Integrações
-- 🔌 **Minimal APIs** para construção de APIs enxutas e performáticas  
-- 🧭 **ASP.NET** em soluções web robustas com foco em APIs e rotas segmentadas  
-- 🗄️ **Banco de dados** com SQL Server, utilizando procedures, views e queries otimizadas  
-- 🔄 **Integração com APIs externas** e consumo de serviços REST  
-- 🧳 **Migração e sustentação de sistemas existentes**, com foco em estabilidade e modernização  
-- 🖥️ **Windows Forms** para manutenção e evolução de sistemas desktop legados  
+- **Minimal APIs** para construção de APIs enxutas e performáticas  
+- **ASP.NET** em soluções web robustas com foco em APIs e rotas segmentadas  
+- **Banco de dados** com SQL Server, utilizando procedures, views e queries otimizadas  
+- **Integração com APIs externas** e consumo de serviços REST  
+- **Migração e sustentação de sistemas existentes**, com foco em estabilidade e modernização  
+- **Windows Forms** para manutenção e evolução de sistemas desktop legados  
 
 ### 🖼️ Frontend
-- 🎯 **Blazor** (WebAssembly e Server) para aplicações modernas e interativas  
-- 🧾 **Razor Views** para construção de interfaces dinâmicas e integração com dados da API  
+- **Blazor** (WebAssembly e Server) para aplicações modernas e interativas  
+- **Razor Views** para construção de interfaces dinâmicas e integração com dados da API  
 
 ### 🧪 Testes e Qualidade
-- 🧪 **Testes automatizados** (unitários e integrados) para garantir confiabilidade  
-- ⚙️ **Atenção à performance e experiência do usuário**, evitando complexidade desnecessária  
+- **Testes automatizados** (unitários e integrados) para garantir confiabilidade  
+- **Atenção à performance e experiência do usuário**, evitando complexidade desnecessária  
 
 ### 🚀 Publicação e Versionamento
-- 🔀 **Versionamento e automações de deploy** com Git e GitHub Actions
+- **Versionamento e automações de deploy** com Git e GitHub Actions
 
 ## ⚖️ Filosofia
 
 Acredito que o equilíbrio é a chave para soluções eficazes.  
 O básico funciona — e tudo começa com **planejamento e arquitetura**.
 
-## 🧭 Fluxo de Desenvolvimento
+## ➡️ Fluxo de Desenvolvimento
 
 ```mermaid
 flowchart LR
@@ -68,11 +72,11 @@ Procuro aplicar uma **modelagem limpa**, com **boas práticas** e nomes expressi
 
 ## 📚 Aprendizado Contínuo
 
-🌱 Me mantenho atualizado com os conteúdos do [curso.dev](https://curso.dev) e [balta.io](https://balta.io).
+Me mantenho atualizado com os conteúdos do [curso.dev](https://curso.dev) e [balta.io](https://balta.io).
 
-🎓 Sou um eterno aprendiz e gosto de compartilhar o que descubro.
+Sou um eterno aprendiz e gosto de compartilhar o que descubro.
 
-✌️ **Posso ajudar em algo?** É só chamar. 
+**Posso ajudar em algo?** É só chamar. 
 
 # 📫 Contato
 
